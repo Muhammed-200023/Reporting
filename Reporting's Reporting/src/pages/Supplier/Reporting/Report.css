@@ -1,0 +1,39 @@
+.customizing-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: #014D4E !important;
+}
+
+.custom-tabs .ant-tabs-ink-bar {
+    background-color: #014D4E ;
+}
+
+.custom-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn,
+.custom-tabs .ant-tabs-tab:hover .ant-tabs-tab-btn {
+    color: #ffffff !important; 
+}
+
+
+.custom-tabs .ant-tabs-ink-bar {
+    background-color: #ffffff !important;
+}
+
+
+.custom-tabs .ant-tabs-tab-btn {
+    transition: none !important;
+}
+
+
+.placeholder-right::placeholder {
+    text-align: right;
+  }
+  
+  .placeholder-right {
+    text-align: left; 
+  }
+  
+  .custom-tabs .ant-tabs-nav-list {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+  }
+  
+  
