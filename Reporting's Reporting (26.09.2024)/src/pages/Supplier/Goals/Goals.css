@@ -1,0 +1,53 @@
+.custom-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: white ;
+    font-size: 16px;
+    border-bottom: 2px solid white;
+}
+
+.custom-tabs .ant-tabs-ink-bar {
+    display: none;
+}
+
+
+.question-text {
+    flex: 1;
+    min-width: 0; 
+    white-space: pre-wrap; 
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px; 
+    align-items: center; 
+}
+
+.custom-tabs .ant-tabs-nav {
+    background-color: #014D4E;
+    height: 45px;
+    border-radius: 15px 15px 0 0; 
+}
+
+.custom-tabs .ant-tabs-tab {
+
+    align-items: center;
+    color: white;
+    font-size: 18px;
+    padding: 0 20px !important;
+    margin: 0 !important;
+
+}
+
+.custom-tabs .ant-tabs-tab-active {
+    color: white ;
+}
+
+.custom-select .ant-select-selector {
+    height: 28px !important;
+    border: 0 !important;
+    border-bottom: 1px dotted #000; 
+  }
+
+
+
+
